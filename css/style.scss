@@ -1,0 +1,25 @@
+@import 'fonts';
+
+.header {
+    padding: 60px 0;
+    
+}
+.container-fluid {
+    max-width: 1486px;
+    margin: 0 auto;
+}
+.logo {
+    position: relative;
+    &__text {
+        position: absolute;
+        bottom: 5px;
+        left: 35px;
+    }
+}
+menu {
+    display: flex;
+    &__link{
+
+    }
+}
+
