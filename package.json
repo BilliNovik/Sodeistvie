@@ -21,6 +21,7 @@
     "slick-carousel": "^1.8.1"
   },
   "dependencies": {
-    "browser-sync": "^2.26.14"
+    "browser-sync": "^2.26.14",
+    "jtabs": "^5.0.0"
   }
 }
